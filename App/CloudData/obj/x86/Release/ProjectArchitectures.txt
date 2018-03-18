@@ -1,0 +1,4 @@
+C:\Users\Guangyan Shen\Desktop\CloudData\App\CloudData\CloudData.csproj;x86
+C:\Users\Guangyan Shen\Desktop\CloudData\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Guangyan Shen\Desktop\CloudData\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Guangyan Shen\Desktop\CloudData\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
